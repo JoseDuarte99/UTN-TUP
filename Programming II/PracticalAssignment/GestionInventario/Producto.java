@@ -1,3 +1,4 @@
+package GestionInventario;
 public class Producto {
     public String nombre;
     public String codigo;

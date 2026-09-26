@@ -1,3 +1,4 @@
+package GestionInventario;
 public class MainInventario {
     public static void main(String[] args) {
         Producto productoUno = new Producto();
